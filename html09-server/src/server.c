@@ -110,7 +110,5 @@ int main() {
     
     }
 
-    //
-    // Clean up and stop the server
     return 0;
 }
