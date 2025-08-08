@@ -26,7 +26,6 @@ int main() {
 
     //get specific file
     send(sock, "GET /test/index.html", 21, 0);
-    //get spefic file
     recv(sock, buffer, buffer_len - 1, 0);
     printf(buffer);
 
