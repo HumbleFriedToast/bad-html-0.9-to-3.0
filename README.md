@@ -1,2 +1,11 @@
-<title>Html 0.9 Implementation</title>
-<p>tthis project is meant to be a stepping stone to learning to implement pre-exsisting protocols for educational purposes</p>
+# HTTP/0.9 Implementation
+
+A lightweight and minimal implementation of the HTTP/0.9 protocol.
+
+## Features
+
+- Supports basic `GET` requests
+- Serves static files over TCP
+- Fully compatible with HTTP/0.9 clients
+
+## Usage
