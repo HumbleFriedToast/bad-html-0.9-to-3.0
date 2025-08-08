@@ -8,4 +8,3 @@ A lightweight and minimal implementation of the HTTP/0.9 protocol.
 - Serves static files over TCP
 - Fully compatible with HTTP/0.9 clients
 
-## Usage
