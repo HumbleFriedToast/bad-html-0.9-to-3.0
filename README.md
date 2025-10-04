@@ -1,7 +1,6 @@
 # HTTP  Implementation
 
-A lightweight and minimal implementation of HTTP .
-starting from 0.9 and upgrading it to 3.0
+A lightweight and minimal implementation of an HTTP 0.9 server
 
 ## Features
 ### HTTP 0.9
