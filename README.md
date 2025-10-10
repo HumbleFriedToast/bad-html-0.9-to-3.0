@@ -2,7 +2,7 @@
 
 A lightweight and minimal implementation of an HTTP 0.9 server
 
-## Features
+## Features :
 ### HTTP 0.9
 - Supports basic `GET` requests
 - Serves static files over TCP
